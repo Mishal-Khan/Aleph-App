@@ -1,5 +1,4 @@
 # Aleph-App
-FYP-1 implementation
 
 <h2>Arabic LEarning and Pronounciation Helper</h2>
 <br>
